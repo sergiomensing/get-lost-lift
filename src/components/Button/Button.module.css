@@ -1,8 +1,0 @@
-.button {
-  appearance: none;
-  border: var(--button-border, none);
-  border-radius: var(--button-border-radius, 0px);
-  font: inherit;
-  padding-inline: 1rem;
-  padding-block: 0.5rem;
-}

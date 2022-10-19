@@ -1,0 +1,19 @@
+{
+  "name": "lift-lib",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    ".": {
+      "require": "./index.ts",
+      "import": "./index.ts",
+      "types": "./index.ts"
+    },
+    "./theme": "./tailwind.config.js"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@headlessui/react": "^1.7.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
