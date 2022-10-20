@@ -6,7 +6,7 @@
 
 # Lift
 
-Design System base for all Get Lost products
+Design System base for Get Lost products.
 
 ## Setup
 
